@@ -1,2 +1,3 @@
 # 1zherv-gamejam-sardinky-build
-Build for another repo
+
+Build for [Sardinky GameJam](https://github.com/xmareko/1zherv-gamejam-sardinky) on WebGL platform.
